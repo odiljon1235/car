@@ -1,0 +1,391 @@
+
+.zzz {
+    margin-top: -550px;
+    cursor: pointer;
+}
+
+h2 {
+    margin-left: 850px;
+    cursor: pointer;
+}
+
+h1 {
+    margin-left: 130px;
+    margin-top: 40px;
+    cursor: pointer;
+
+}
+
+.qo {
+    margin-left: 1000px;
+    margin-top: -40px;
+    cursor: pointer;
+}
+
+.wo {
+    margin-left: 1050px;
+    margin-top: -18px;
+    cursor: pointer;
+}
+
+.eo {
+    margin-left: 1130px;
+    margin-top: -18px;
+    cursor: pointer;
+}
+
+.ro {
+    margin-left: 1230px;
+    margin-top: -18px;
+    cursor: pointer;
+}
+
+.to {
+    margin-left: 1340px;
+    margin-top: -18px;
+    cursor: pointer;
+}
+
+.yo {
+    margin-left: 1400px;
+    margin-top: -18px;
+    cursor: pointer;
+}
+
+.uo {
+    margin-left: 850px;
+    margin-top: -500px;
+    font-size: 16px;
+    cursor: pointer;
+    font-family: "Roboto", sans-serif;
+}
+
+.io {
+    margin-left: 850px;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
+}
+
+h4 {
+    margin-left: 850px;
+    cursor: pointer;
+}
+
+.o1 {
+    margin-left: 850px;
+    width: 130px;
+    cursor: pointer;
+    height: 40px;
+
+    text-decoration: none;
+    border-radius: 7px;
+    border: none;
+    background-color: blue;
+    color: #fff;
+}
+
+.o1:hover {
+background-color: #fff;
+color: blue;
+transition: 0.5s;
+}
+.o2:hover {
+    background-color: blue;
+    color: #fff;
+    transition: 0.5s;
+    }
+.o2 {
+    width: 130px;
+    height: 40px;
+    text-decoration: none;
+    border-radius: 7px;
+    cursor: pointer;
+    background-color: #e8e1e1;
+    color: blue;
+    border: none;
+}
+
+.link {
+    margin-top: 800px;
+    cursor: pointer;
+}
+
+.ggg {
+    margin-top: 500px;
+    cursor: pointer;
+}
+
+i {
+    margin-left: 850px;
+    cursor: pointer;
+}
+
+.ao {
+    margin-left: 850px;
+    cursor: pointer;
+}
+
+.so {
+    margin-left: 850px;
+    cursor: pointer;
+}
+
+.do {
+    margin-left: 850px;
+    cursor: pointer;
+}
+
+.fo {
+    margin-left: 850px;
+    cursor: pointer;
+}
+
+.go {
+    margin-top: 50px;
+    cursor: pointer;
+    margin-left: 850px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.ho {
+    margin-left: 850px;
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.jo {
+    margin-top: 40px;
+    cursor: pointer;
+    margin-left: 850px;
+}
+
+.ko {
+    margin-left: 850px;
+    cursor: pointer;
+}
+
+.card {
+    margin-left: 620px;
+    cursor: pointer;
+    margin-top: 340px;
+    width: 60%;
+    height: 700px;
+    box-shadow: 4px 6px 12px #d7d6d6;
+}
+
+.salom {
+    margin-left: 150px;
+    cursor: pointer;
+    font-size: 25px;
+    padding-top: 80px;
+}
+
+.mol {
+    margin-left: 150px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.qol {
+    margin-left: 150px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.og {
+    margin-left: 150px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.off {
+    margin-left: 150px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.on {
+    margin-left: 150px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.ffo {
+    margin-left: 450px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-top: -105px;
+}
+
+.onn {
+    margin-left: 650px;
+    cursor: pointer;
+    margin-top: -35px;
+}
+
+.bbo {
+    margin-left: 450px;
+    cursor: pointer;
+}
+
+.ovv {
+    margin-left: 650px;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    margin-left: 150px;
+    margin-top: 100px;
+    cursor: pointer;
+    width: 309px;
+    height: 35px;
+}
+
+input[type="bbb"] {
+    margin-left: 150px;
+    width: 630px;
+    cursor: pointer;
+    height: 35px;
+    margin-top: 20px;
+}
+
+input[type="mmm"] {
+    width: 310px;
+    cursor: pointer;
+    height: 35px;
+}
+
+input[type="aaa"] {
+    margin-left: 150px;
+    width: 630px;
+    
+    cursor: pointer;
+    height: 100px;
+    margin-top: 10px;
+
+}
+
+.eee {
+    margin-left: 150px;
+    width: 130px;
+    cursor: pointer;
+    height: 40px;
+    margin-top: 10px;
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+}
+
+.nn {
+    margin-left: 150px;
+    margin-top: 20px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.eee:hover{
+    background-color: #fff;
+    color: blue;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.jjj {
+    font-size: 30px;
+    margin-left: 620px;
+    cursor: pointer;
+    margin-top: 500px;
+}
+
+.nnn {
+    margin-left: 505px;
+    cursor: pointer;
+}
+
+.bbb {
+    margin-left: 560px;
+    cursor: pointer;
+}
+
+.card1 {
+    margin-top: 40px;
+    margin-left: 100px;
+    cursor: pointer;
+    width: 18%;
+    height: 250px;
+    box-shadow: 4px 6px 12px #d7d6d6;
+}
+
+.card2 {
+    margin-left: 450px;
+    margin-top: -250px;
+    cursor: pointer;
+    width: 18%;
+    height: 250px;
+    box-shadow: 4px 6px 12px #d7d6d6;
+}
+
+.card3 {
+    margin-top: -250px;
+    cursor: pointer;
+    margin-left: 800px;
+    width: 18%;
+    height: 250px;
+    box-shadow: 4px 6px 12px #d7d6d6;
+}
+
+.card4 {
+    margin-top: -250px;
+    margin-left: 1150px;
+    width: 18%;
+    height: 250px;
+    cursor: pointer;
+    box-shadow: 4px 6px 12px #d7d6d6;
+}
+
+.mnn {
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.jkk {
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.nmm {
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.bnn {
+    margin-left: 100px;
+    cursor: pointer;
+}
+
+.card1:hover{
+    transition: 0.5s;
+    box-shadow: 20 20 20 20px solid #00ffb3;
+    height: 255px;
+    width: 19%;
+}
+.card2:hover{
+    transition: 0.5s;
+    box-shadow: 20 20 20 20px solid #00ffb3;
+    height: 255px;
+    width: 19%;
+}
+.card3:hover{
+    transition: 0.5s;
+    box-shadow: 20 20 20 20px solid #00ffb3;
+    height: 255px;
+    width: 19%;
+}
+.card4:hover{
+    transition: 0.5s;
+    box-shadow: 20 20 20 20px solid blue;
+    height: 255px;
+    width: 19%;
+}
